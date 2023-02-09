@@ -8,4 +8,4 @@
 
 ## Девочка с обезьянкой.
 
-![Manki]0MASCHA.JPG)
+![Manki](MASCHA.JPG)
